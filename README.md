@@ -1,2 +1,2 @@
 # Fresco-Comida-Italiana
- Projeto com WordPress Prof ° Gustavo Guanabara
+ Projeto com WordPress Prof ° Gustavo Guanabara !
