@@ -1,5 +1,5 @@
 # 🥗 Fresco – Comida Italiana
-**Projeto desenvolvido em WordPress • Curso do Prof. Gustavo Guanabara**
+**Projeto Desenvolvido em WordPress • Curso do Prof. Gustavo Guanabara**
 
 Este repositório apresenta um site institucional fictício para um restaurante italiano, criado como parte de estudos em WordPress, abordando conceitos fundamentais de CMS, navegação, organização de conteúdo e personalização de temas.
 
